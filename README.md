@@ -1,7 +1,7 @@
 # tiktok
 
 A new Flutter project.
- file:///run/user/1000/gvfs/mtp:host=INFINIX_MOBILITY_LIMITED_Infinix_Smart_3_Plus_0470611986102047/Internal%20shared%20storage/Movies/ScreenRecord/20220222080711.mp4
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
